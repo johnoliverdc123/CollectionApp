@@ -1,0 +1,11 @@
+C:\Users\G&E Client 17\source\repos\CollectionApp\CollectionApp\bin\Debug\CollectionApp.exe.config
+C:\Users\G&E Client 17\source\repos\CollectionApp\CollectionApp\bin\Debug\CollectionApp.exe
+C:\Users\G&E Client 17\source\repos\CollectionApp\CollectionApp\bin\Debug\CollectionApp.pdb
+C:\Users\G&E Client 17\source\repos\CollectionApp\CollectionApp\obj\Debug\CollectionApp.csprojAssemblyReference.cache
+C:\Users\G&E Client 17\source\repos\CollectionApp\CollectionApp\obj\Debug\CollectionApp.Form1.resources
+C:\Users\G&E Client 17\source\repos\CollectionApp\CollectionApp\obj\Debug\CollectionApp.Form2.resources
+C:\Users\G&E Client 17\source\repos\CollectionApp\CollectionApp\obj\Debug\CollectionApp.Properties.Resources.resources
+C:\Users\G&E Client 17\source\repos\CollectionApp\CollectionApp\obj\Debug\CollectionApp.csproj.GenerateResource.cache
+C:\Users\G&E Client 17\source\repos\CollectionApp\CollectionApp\obj\Debug\CollectionApp.csproj.CoreCompileInputs.cache
+C:\Users\G&E Client 17\source\repos\CollectionApp\CollectionApp\obj\Debug\CollectionApp.exe
+C:\Users\G&E Client 17\source\repos\CollectionApp\CollectionApp\obj\Debug\CollectionApp.pdb
